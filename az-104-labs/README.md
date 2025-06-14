@@ -26,4 +26,4 @@ Ensure all necessary policy definitions are already created or available.
 
 Confirm the list of allowed countries or regions based on project or compliance needs.
 
-<img src="../images/001.png" alt="createing azure policy" width="300"/>
+<img src="/../images/001.png" alt="createing azure policy" width="300"/>
